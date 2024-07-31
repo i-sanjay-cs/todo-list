@@ -70,6 +70,4 @@ Feel free to explore, play around, and contribute! If you have any questions or 
 
 ---
 
-Happy Coding! 🎉
-```
 
